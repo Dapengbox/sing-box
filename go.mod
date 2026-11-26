@@ -49,7 +49,7 @@ require (
 	github.com/sagernet/sing-mux v0.3.10-0.20261125130604-1dd833b8fc3a
 	github.com/sagernet/sing-openconnect v0.1.1-0.20261126032024-bc53c1ef8ca9
 	github.com/sagernet/sing-openvpn v0.1.1-0.20261125120933-28a40b4ceb1f
-	github.com/sagernet/sing-quic v0.7.2-0.20261126001928-6dfcdb4a5abf
+	github.com/sagernet/sing-quic v0.7.2-0.20261126024618-27f15a98d9c9
 	github.com/sagernet/sing-shadowsocks v0.2.9-0.20260929204512-65740e0f0e3e
 	github.com/sagernet/sing-shadowsocks2 v0.2.2-0.20261110092058-52ade8ab7e95
 	github.com/sagernet/sing-shadowtls v0.2.2-0.20261125124310-5028b2558ebf

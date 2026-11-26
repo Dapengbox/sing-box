@@ -325,8 +325,8 @@ github.com/sagernet/sing-openconnect v0.1.1-0.20261126032024-bc53c1ef8ca9 h1:a8a
 github.com/sagernet/sing-openconnect v0.1.1-0.20261126032024-bc53c1ef8ca9/go.mod h1:4AKZLVcvY3r54UaK2Gbnm7aN8pOwdLz+y4EP0QFZ5Eg=
 github.com/sagernet/sing-openvpn v0.1.1-0.20261125120933-28a40b4ceb1f h1:v7anDtJ8NktAy6T2NfZKtrb7V7p8DbZBpuza+xrq8W8=
 github.com/sagernet/sing-openvpn v0.1.1-0.20261125120933-28a40b4ceb1f/go.mod h1:PWX7WygD8jpwfqfaGNySXpJYTn0SOwjBI1BKHHC2+Bw=
-github.com/sagernet/sing-quic v0.7.2-0.20261126001928-6dfcdb4a5abf h1:yxBddMB7vDKLGUYP+abKaSkNoNgHoRz5HBXt3HaLn6o=
-github.com/sagernet/sing-quic v0.7.2-0.20261126001928-6dfcdb4a5abf/go.mod h1:syfvvkNZjArtiJAVYYi+aS/vV5Cm1xQtQ5MgneLVs+s=
+github.com/sagernet/sing-quic v0.7.2-0.20261126024618-27f15a98d9c9 h1:ho7WPneTQLzKx/Jpk80lIZjAvYN9YjJXUZogH9bSHIs=
+github.com/sagernet/sing-quic v0.7.2-0.20261126024618-27f15a98d9c9/go.mod h1:syfvvkNZjArtiJAVYYi+aS/vV5Cm1xQtQ5MgneLVs+s=
 github.com/sagernet/sing-shadowsocks v0.2.9-0.20260929204512-65740e0f0e3e h1:LKgE/uuqp/D2kgxYViOz8vf4slaCUfpFywXjtuwD5gU=
 github.com/sagernet/sing-shadowsocks v0.2.9-0.20260929204512-65740e0f0e3e/go.mod h1:lo7TWEMDcN5/h5B8S0ew+r78ZODn6SwVaFhvB6H+PTI=
 github.com/sagernet/sing-shadowsocks2 v0.2.2-0.20261110092058-52ade8ab7e95 h1:nuxgfThM++EpCxofrB8chW9UF6p317rnLPGH7O1qXP4=
